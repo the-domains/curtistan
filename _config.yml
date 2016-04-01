@@ -1,0 +1,28 @@
+name: curtistan
+favicon: null
+layout_spectrum: 0.5167706194333732
+typography_spectrum: 0.365516742458567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.27003527502529323
+  lightness: 0.8278245518449694
+  saturation: 0.6657121665775776
+  rhythmicContrast: 0.9871519836597145
+purpose: []
