@@ -1,7 +1,7 @@
 name: curtistan
 favicon: null
-layout_spectrum: 0.5167706194333732
-typography_spectrum: 0.365516742458567
+layout_spectrum: 0.76012
+typography_spectrum: 0.80636
 title: Real Talk by Curtis Tan
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.27003527502529323
-  lightness: 0.8278245518449694
-  saturation: 0.6657121665775776
-  rhythmicContrast: 0.9871519836597145
+    - '#ebebeb'
+    - '#3946c8'
+    - '#527ed7'
+    - '#2c231a'
+    - '#9d885b'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
